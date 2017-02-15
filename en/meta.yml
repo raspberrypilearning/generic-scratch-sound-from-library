@@ -2,4 +2,7 @@ title: sound-from-library
 hero_image: images/banner.png
 subtitle: sound-from-library subtitle
 description: sound-from-library description
-published: 'false'
+published: false
+steps:
+  - title: Step one
+    duration: 60
