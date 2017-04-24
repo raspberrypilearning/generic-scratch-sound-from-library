@@ -4,6 +4,6 @@
 
 	![screenshot](images/import-sound.png)
 
-+ You will then be able to choose a suitable sound to add to your sprite.
++ Sounds are organised by category. Choose a suitable sound and click 'OK'.
 
 	![screenshot](images/choose-sound.png)
