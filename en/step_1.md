@@ -7,3 +7,7 @@
 + Sounds are organised by category. Choose a suitable sound and click 'OK'.
 
 	![screenshot](images/choose-sound.png)
+
++ You should then see that your sprite has your chosen sound.
+
+	![screenshot](images/sound-imported.png)
