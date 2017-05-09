@@ -1,10 +1,12 @@
 + Make sure that you have selected the sprite you want to add the sound to.
 
+	![screenshot](images/sprite-select.png)
+
 + Click the 'Sounds' tab, and click 'Choose sound from library':
 
 	![screenshot](images/import-sound.png)
 
-+ Sounds are organised by category. Choose a suitable sound and click 'OK'.
++ Sounds are organised by category, and you can click the 'play' button to hear a sound. Choose a suitable sound and click 'OK'.
 
 	![screenshot](images/choose-sound.png)
 
