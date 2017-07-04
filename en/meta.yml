@@ -1,4 +1,4 @@
-title: Adding a sound from the Scratch library
+dtitle: Adding a sound from the Scratch library
 hero_image: images/banner.png
 description: How to add a sound to your Scratch sprite
 original_url:
@@ -6,9 +6,9 @@ theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
+copyedit: true
 interests:
 technologies: "scratch"
 steps:
-published: false
 steps:
   - title: Add a sound to your sprite
