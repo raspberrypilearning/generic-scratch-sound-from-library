@@ -1,5 +1,3 @@
-## Add a sound to your Scratch sprite
-
 + Select the sprite you want to add the sound to.
 
 	![screenshot](images/sprite-select.png)
