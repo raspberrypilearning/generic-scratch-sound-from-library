@@ -1,7 +1,7 @@
 ---
-title: Agregar un sonido de la biblioteca
+title: Añadir un sonido de la biblioteca
 hero_image: images / banner.png
-description: Cómo agregar un sonido a tu sprite de Scratch
+description: Cómo añadir un sonido a tu sprite de Scratch
 original_url: ""
 theme: cc-prototype
 duration: 1
@@ -9,7 +9,7 @@ listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "rasguño"
+technologies: "scratch"
 steps:
   - 
-    title: Agrega un sonido a tu sprite
+    title: Añadir un sonido a tu sprite
