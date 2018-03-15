@@ -1,15 +1,15 @@
-+ Select the sprite you want to add the sound to.
++ Selecione o sprite ao qual deseja adicionar o som.
     
-    ![screenshot](images/sprite-select.png)
+    ![captura de tela](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose sound from library**:
++ Clique na guia **Sons** e clique em **Escolha o som da biblioteca**:
     
-    ![screenshot](images/import-sound.png)
+    ![captura de tela](images/import-sound.png)
 
-+ Sounds are organised by category, and you can click the **Play** button to hear a sound. Choose a suitable sound and click **OK**.
++ Os sons são organizados por categoria e você pode clicar no botão **Play** para ouvir um som. Escolha um som adequado e clique em **OK**.
     
-    ![screenshot](images/choose-sound.png)
+    ![captura de tela](images/choose-sound.png)
 
-+ You should then see that your sprite has your chosen sound.
++ Você deve então ver que seu sprite possui o seu som escolhido.
     
-    ![screenshot](images/sound-imported.png)
+    ![captura de tela](images/sound-imported.png)
