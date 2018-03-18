@@ -1,7 +1,7 @@
 ---
 title: Een geluid uit de bibliotheek toevoegen
 hero_image: images / banner.png
-description: Hoe een geluid aan uw Scratch-sprite toe te voegen
+description: Hoe voeg je een geluid aan je Scratch-sprite
 original_url: ""
 theme: cc-prototype
 duration: 1
@@ -9,7 +9,7 @@ listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "krassen"
+technologies: "scratch"
 steps:
   - 
-    title: Voeg een geluid toe aan uw sprite
+    title: Voeg een geluid toe aan je sprite
