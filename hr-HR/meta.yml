@@ -1,7 +1,7 @@
 ---
-title: Dodavanje zvuka iz biblioteke
-hero_image: slike / banner.png
-description: Kako dodati zvuk Scratch spriteu
+title: Dodavanje zvuka iz knjižnice
+hero_image: images/banner.png
+description: Kako dodati zvuk Scratch liku
 original_url: ""
 theme: cc-prototip
 duration: 1
@@ -9,7 +9,7 @@ listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "ogrepsti"
+technologies: "Scratch"
 steps:
   - 
-    title: Dodajte zvuk na svoj sprite
+    title: Dodajte liku zvuk
