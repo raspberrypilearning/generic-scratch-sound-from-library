@@ -1,15 +1,15 @@
-+ Odaberite lika kome želite dodati zvuk.
++ Odaberi lika kojem želiš dodati zvuk.
     
     ![snimka zaslona](images/sprite-select.png)
 
-+ Kliknite karticu **Zvukovi** i kliknite **Odaberi zvuk iz knjižnice**:
++ Klikni karticu **Zvukovi** i klikni **Odaberi zvuk iz knjižnice**:
     
     ![snimka zaslona](images/import-sound.png)
 
-+ Zvukovi su orgranizirani prema kategoriji, a možete kliknuti gumb **Play** da biste čuli zvuk. Odaberite odgovarajući zvuk i kliknite **OK**.
++ Zvukovi su orgranizirani prema kategoriji i možeš kliknuti gumb **Play** da bi čuo zvuk. Odaberi odgovarajući zvuk i klikni **OK**.
     
     ![snimka zaslona](images/choose-sound.png)
 
-+ Tada biste trebali vidjeti da vaš sprite ima vaš odabrani zvuk.
++ Tada bi trebao vidjeti da tvoj lik ima odabrani zvuk.
     
     ![snimka zaslona](images/sound-imported.png)
