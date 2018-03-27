@@ -1,15 +1,15 @@
 + Επέλεξε το αντικείμενο στο οποίο θέλεις να προσθέσεις τον ήχο.
     
-    ![screenshot](images/sprite-select.png)
+    ![στιγμιότυπο οθόνης](images/sprite-select.png)
 
 + Κάνε κλικ στην καρτέλα **Ήχοι** και ξανά κλικ στο **Διαλέξτε έναν ήχο από τη βιβλιοθήκη**:
     
-    ![screenshot](images/import-sound.png)
+    ![στιγμιότυπο οθόνης](images/import-sound.png)
 
 + Οι ήχοι είναι οργανωμένοι ανά κατηγορία και μπορείς να κάνεις κλικ στο κουμπί **Play** για να ακούσεις τον ήχο. Διάλεξε έναν κατάλληλο ήχο και κάνε κλικ στο **OK**.
     
-    ![screenshot](images/choose-sound.png)
+    ![στιγμιότυπο οθόνης](images/choose-sound.png)
 
 + Στη συνέχεια, θα πρέπει να δεις ότι το αντικείμενο έχει τον επιλεγμένο ήχο.
     
-    ![screenshot](images/sound-imported.png)
+    ![στιγμιότυπο οθόνης](images/sound-imported.png)
