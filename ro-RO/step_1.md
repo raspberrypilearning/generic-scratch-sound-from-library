@@ -1,15 +1,15 @@
-+ Selectați spriteul la care doriți să adăugați sunetul.
++ Selectați personajul căruia doriți să-i asociați sunetul.
     
     ![captură de ecran](images/sprite-select.png)
 
-+ Faceți clic pe fila **Sunete** și faceți clic pe **Alegeți sunetul din bibliotecă**:
++ Faceți clic pe fila **Sunete**, apoi faceți clic pe **Alegeți sunetul din bibliotecă**:
     
     ![captură de ecran](images/import-sound.png)
 
-+ Sunetele sunt organizate pe categorii și puteți face clic pe butonul **Play** pentru a auzi un sunet. Alegeți un sunet potrivit și faceți clic pe **OK**.
++ Sunetele sunt organizate pe categorii, iar făcând clic pe butonul **Play** puteți auzi sunetul. Alegeți un sunet potrivit, apoi faceți clic pe **OK**.
     
     ![captură de ecran](images/choose-sound.png)
 
-+ Ar trebui să vezi că sprite-ul tău are sunetul tău ales.
++ Ar trebui apoi să vedeți că personajul are asociat sunetul pe care l-ați ales.
     
     ![captură de ecran](images/sound-imported.png)
