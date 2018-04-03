@@ -6,7 +6,7 @@
     
     ![screenshot](images/import-sound.png)
 
-+ Zvukovi su orgranizirani prema kategoriji i možeš kliknuti gumb **Play** da bi čuo zvuk. Odaberi odgovarajući zvuk i klikni **OK**.
++ Zvukovi su organizirani prema kategoriji i možeš kliknuti na gumb **Play** da bi čuo zvuk. Odaberi odgovarajući zvuk i klikni na **OK**.
     
     ![screenshot](images/choose-sound.png)
 
