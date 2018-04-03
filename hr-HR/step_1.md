@@ -2,7 +2,7 @@
     
     ![screenshot](images/sprite-select.png)
 
-+ Klikni karticu **Zvukovi** i klikni **Odaberi zvuk iz knjižnice**:
++ Odaberi karticu **Zvukovi** i klikni na **Odaberi zvuk iz knjižnice**:
     
     ![screenshot](images/import-sound.png)
 
