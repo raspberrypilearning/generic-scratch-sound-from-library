@@ -3,13 +3,13 @@ title: Dodavanje zvuka iz knjižnice
 hero_image: images/banner.png
 description: Kako dodati zvuk Scratch liku
 original_url: ""
-theme: cc-prototip
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "Scratch"
+technologies: "scratch"
 steps:
   - 
-    title: Dodaj liku zvuk
+    title: Dodaj zvuk liku
