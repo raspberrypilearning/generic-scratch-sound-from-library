@@ -1,7 +1,7 @@
 ---
-title: Aggiungere un suono dalla libreria
+title: Dodavanje zvuka iz knjižnice
 hero_image: images/banner.png
-description: Come aggiungere un suono al tuo sprite di Scratch
+description: Kako dodati zvuk Scratch liku
 original_url: ""
 theme: cc-prototype
 duration: 1
@@ -11,4 +11,4 @@ copyedit: true
 interests: ""
 technologies: "scratch"
 steps:
-  - title: Aggiungi un suono al tuo sprite
+  - title: Dodaj zvuk liku
