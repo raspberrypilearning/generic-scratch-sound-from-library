@@ -1,4 +1,4 @@
-+ Wähle die Figur aus, der du den Klang hinzufügen möchtest. Trial Change.
++ Wähle die Figur aus, der du den Klang hinzufügen möchtest.
     
     ![screenshot](images/sprite-select.png)
 
