@@ -1,7 +1,7 @@
 ---
-title: Hinzufügen eines Sounds aus der Bibliothek
+title: Hinzufügen von einem Klang aus der Bibliothek
 hero_image: images/banner.png
-description: So fügen Sie Ihrem Scratch-Sprite einen Sound hinzu
+description: So wird ein Klang zu deiner Scratch-Figur hinzugefügt
 original_url: ""
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: "scratch"
 steps:
   - 
-    title: Fügen Sie Ihrem Sprite einen Sound hinzu
+    title: Füge deiner Figur einen Klang hinzu
