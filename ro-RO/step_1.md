@@ -2,7 +2,7 @@
     
     ![captură de ecran](images/sprite-select.png)
 
-+ Faceți clic pe fila **Sunete**, apoi faceți clic pe **Alegeți sunetul din bibliotecă**:
++ Faceți clic pe tab-ul **Sunete**, apoi faceți clic pe **Alegeți sunetul din bibliotecă**:
     
     ![captură de ecran](images/import-sound.png)
 
@@ -10,6 +10,6 @@
     
     ![captură de ecran](images/choose-sound.png)
 
-+ Ar trebui apoi să vedeți că personajul are asociat sunetul pe care l-ați ales.
++ Ar trebui apoi să verificati că personajul are asociat sunetul pe care l-ați ales.
     
     ![captură de ecran](images/sound-imported.png)
