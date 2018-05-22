@@ -2,13 +2,13 @@
 title: Kitaplıktan ses ekleme
 hero_image: images / banner.png
 description: Scratch hareketli grafiğine nasıl ses eklenir
-original_url: ""
+original_url:
 theme: cc-prototip
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "çizik"
 steps:
   - 
