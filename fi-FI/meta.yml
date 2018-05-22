@@ -2,13 +2,13 @@
 title: Äänen lisääminen kirjastosta
 hero_image: Kuvien / banner.png
 description: Kuinka lisätä äänen Scratch sprite -ohjelmaan
-original_url: ""
+original_url:
 theme: CC-prototyyppi
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "naarmu"
 steps:
   - 
