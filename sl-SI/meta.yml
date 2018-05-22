@@ -2,13 +2,13 @@
 title: Dodajanje zvoka iz knjižnice
 hero_image: images / banner.png
 description: Kako dodati zvok v Scratch sprite
-original_url: ""
+original_url:
 theme: cc-prototip
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "praska"
 steps:
   - 
