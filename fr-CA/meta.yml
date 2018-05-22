@@ -2,13 +2,13 @@
 title: Ajouter un son de la bibliothèque
 hero_image: images / banner.png
 description: Comment ajouter un son à votre sprite de Scratch
-original_url: ""
+original_url:
 theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "rayure"
 steps:
   - 
