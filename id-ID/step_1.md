@@ -1,15 +1,15 @@
-+ Pilih sprite yang ingin Anda tambahkan suara.
++ Pilih sprite yang ingin Kamu tambahkan suara.
     
     ![tangkapan layar](images/sprite-select.png)
 
-+ Klik tab **Sounds** , dan klik **Pilih suara dari perpustakaan**:
++ Klik tab **Suara**, dan klik **Pilih suara dari pustaka**:
     
     ![tangkapan layar](images/import-sound.png)
 
-+ Suara diatur menurut kategori, dan Anda bisa mengklik tombol **Play** untuk mendengar suara. Pilih suara yang sesuai dan klik **OK**.
++ Suara dikelompokan berdasarkan kategori, dan Kamu bisa mengklik tombol **Putar** untuk mendengar suara. Pilih suara yang sesuai dan klik **OK**.
     
     ![tangkapan layar](images/choose-sound.png)
 
-+ Anda kemudian harus melihat bahwa sprite Anda memiliki suara yang Anda pilih.
++ Kamu kemudian akan melihat bahwa sprite Kamu telah memiliki suara yang Kamu pilih.
     
     ![tangkapan layar](images/sound-imported.png)
