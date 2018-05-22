@@ -2,13 +2,13 @@
 title: Προσθέτοντας ένα ήχο από τη βιβλιοθήκη
 hero_image: images/banner.png
 description: Πώς να προσθέσεις έναν ήχο στο αντικείμενο Scratch
-original_url: ""
+original_url:
 theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "scratch"
 steps:
   - 
