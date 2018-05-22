@@ -2,13 +2,13 @@
 title: Pridanie zvuku z knižnice
 hero_image: images / banner.png
 description: Ako pridať zvuk Scratch sprite
-original_url: ""
+original_url:
 theme: cc-prototyp
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "škrabanec"
 steps:
   - 
