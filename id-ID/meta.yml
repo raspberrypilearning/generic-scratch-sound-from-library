@@ -1,15 +1,15 @@
 ---
-title: Menambahkan suara dari perpustakaan
-hero_image: gambar / banner.png
-description: Cara menambahkan suara ke Scratch sprite Anda
+title: Menambahkan sebuah suara dari pustaka
+hero_image: images/banner.png
+description: Cara menambahkan suara ke sprite Scratch Kamu
 original_url:
-theme: cc-prototipe
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "menggaruk"
+technologies: "scratch"
 steps:
   - 
-    title: Tambahkan suara ke sprite Anda
+    title: Menambahkan sebuah suara ke sprite Kamu
