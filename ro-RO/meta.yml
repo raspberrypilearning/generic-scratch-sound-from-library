@@ -1,7 +1,7 @@
 ---
-title: Añadir un sonido de la biblioteca
+title: Adăugarea unui sunet din bibliotecă
 hero_image: images/banner.png
-description: Cómo añadir un sonido a tu sprite de Scratch
+description: Cum să asociați un sunet unui personaj Scratch
 original_url:
 theme: cc-prototype
 duration: 1
@@ -11,4 +11,4 @@ copyedit: true
 interests:
 technologies: "scratch"
 steps:
-  - title: Añadir un sonido a tu sprite
+  - title: Asociați un sunet personajului
