@@ -2,7 +2,7 @@
     
     ![screenshot](images/sprite-select.png)
 
-+ Cliciwch ar y **Sounds** tab, a chliciwch **Dewiswch sain o'r llyfrgell**:
++ Cliciwch y tab **Seiniau**, a chliciwch **Dewis sain o'r rhestr**:
     
     ![screenshot](images/import-sound.png)
 
