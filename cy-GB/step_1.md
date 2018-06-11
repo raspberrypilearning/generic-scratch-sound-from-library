@@ -1,15 +1,15 @@
 + Dewiswch y ciplun rydych am ychwanegu'r sain ato.
     
-    ![screenshot](images/sprite-select.png)
+    ![sgrinlun](images/sprite-select.png)
 
 + Cliciwch y tab **Seiniau**, a chliciwch **Dewis sain o'r rhestr**:
     
-    ![screenshot](images/import-sound.png)
+    ![sgrinlun](images/import-sound.png)
 
-+ Trefnir swniau yn ôl categori, a gallwch glicio ar y botwm **Play** i glywed sain. Dewiswch sain addas a chliciwch **OK**.
++ Trefnir seiniau yn ôl categori, a gallwch glicio ar y botwm **Chwarae** i glywed sain. Dewiswch sain addas a chliciwch **OK**.
     
-    ![screenshot](images/choose-sound.png)
+    ![sgrinlun](images/choose-sound.png)
 
-+ Dylech wedyn weld bod eich sbrityn wedi eich sain ddewisol.
++ Wedyn, dylech weld bod gan eich ciplun y sain a ddewisoch.
     
-    ![screenshot](images/sound-imported.png)
+    ![sgrinlun](images/sound-imported.png)
