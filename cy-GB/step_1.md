@@ -1,4 +1,4 @@
-+ Dewiswch y sbring rydych am ychwanegu'r sain i.
++ Dewiswch y ciplun rydych am ychwanegu'r sain ato.
     
     ![screenshot](images/sprite-select.png)
 
