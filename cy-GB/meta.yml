@@ -1,15 +1,15 @@
 ---
 title: Ychwanegu sain o'r llyfrgell
-hero_image: delweddau / banner.png
-description: Sut i ychwanegu sain i'ch sglefrio Scratch
+hero_image: images/banner.png
+description: Sut i ychwanegu sain i'ch ciplun Scratch
 original_url:
-theme: cc-prototeip
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "crafu"
+technologies: "scratch"
 steps:
   - 
-    title: Ychwanegwch sain i'ch gwenyn
+    title: Ychwanegwch sain i'ch ciplun
