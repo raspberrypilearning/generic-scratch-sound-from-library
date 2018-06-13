@@ -1,0 +1,14 @@
+---
+title: ライブラリーから音を追加する
+hero_image: images/banner.png
+description: スクラッチのスプライトにサウンドを追加する方法
+original_url:
+theme: cc-prototype
+duration: 1
+listed: false
+ingredient: true
+copyedit: true
+interests:
+technologies: "scratch"
+steps:
+  - title: スプライトに音を追加する
