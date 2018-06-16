@@ -2,7 +2,7 @@
     
     ![screenshot](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose sound from library**:
++ 单击**声音**标签，然后单击 **从声音库中选取声音**图标:
     
     ![screenshot](images/import-sound.png)
 
