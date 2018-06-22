@@ -1,4 +1,4 @@
-+ Sélectionnez l'image-objet à laquelle vous souhaitez ajouter le son.
++ Sélectionnez le lutin auquel vous souhaitez ajouter le son.
     
     ![capture d'écran](images/sprite-select.png)
 
