@@ -1,7 +1,7 @@
 ---
 title: Ajouter un son depuis la bibliothèque
 hero_image: images / banner.png
-description: Comment ajouter un son à votre lutin de Scratch
+description: Comment ajouter un son à ton lutin de Scratch
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Ajouter un son à votre lutin
+    title: Ajoute un son à ton lutin
