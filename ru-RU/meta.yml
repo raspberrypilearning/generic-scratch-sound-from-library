@@ -1,15 +1,15 @@
 ---
 title: Добавление звука из библиотеки
-hero_image: Изображения / banner.png
+hero_image: images/banner.png
 description: Как добавить звук в свой спрайт Scratch
 original_url:
-theme: куб.см-прототип
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "царапина"
+technologies: "scratch"
 steps:
   - 
-    title: Добавить звук в ваш спрайт
+    title: Добавляем звук в твой спрайт
