@@ -2,7 +2,7 @@
     
     ![captura de tela](images/sprite-select.png)
 
-+ Clique na guia **Sons** e clique em **Escolha o som da biblioteca**:
++ Clique na guia **Sons** e clique em **Escolher som da biblioteca**:
     
     ![captura de tela](images/import-sound.png)
 
@@ -10,6 +10,6 @@
     
     ![captura de tela](images/choose-sound.png)
 
-+ Você deve então ver que seu sprite possui o seu som escolhido.
++ Você deve então ver que sua sprite possui o som escolhido.
     
     ![captura de tela](images/sound-imported.png)
