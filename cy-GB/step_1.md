@@ -1,15 +1,15 @@
-+ Dewiswch y ciplun rydych am ychwanegu'r sain ato.
++ Dewis y ciplun rwyt ti am ychwanegu'r sain ato.
     
     ![sgrinlun](images/sprite-select.png)
 
-+ Cliciwch y tab **Seiniau**, a chliciwch **Dewis sain o'r rhestr**:
++ Clicia'r tab **Seiniau**, a chlicio **Dewis sain o'r rhestr**:
     
     ![sgrinlun](images/import-sound.png)
 
-+ Trefnir seiniau yn ôl categori, a gallwch glicio ar y botwm **Chwarae** i glywed sain. Dewiswch sain addas a chliciwch **OK**.
++ Mae seiniau wedi'u trefnu yn ôl categori, a gelli di glicio ar y botwm **Chwarae** i glywed sain. Dewis sain addas a chlicio **Iawn**.
     
     ![sgrinlun](images/choose-sound.png)
 
-+ Wedyn, dylech weld bod gan eich ciplun y sain a ddewisoch.
++ Wedyn, dylet ti weld bod gan dy giplun y sain a ddewisaist ti.
     
     ![sgrinlun](images/sound-imported.png)
