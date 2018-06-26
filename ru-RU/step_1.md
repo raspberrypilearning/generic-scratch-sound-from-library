@@ -1,15 +1,15 @@
 + Выбери спрайт, к которому ты хочешь добавить звук.
     
-    ![Скриншот](images/sprite-select.png)
+    ![screenshot](images/sprite-select.png)
 
 + Перейди на вкладку **Звуки** и нажми кнопку **Выбрать звук из библиотеки**:
     
-    ![Скриншот](images/import-sound.png)
+    ![screenshot](images/import-sound.png)
 
 + Звуки организованы по категориям и, если ты нажмёшь кнопку с **треугольником** , то сможешь прослушать звук. Выбери нужный тебе звук и нажми **OK**.
     
-    ![Скриншот](images/choose-sound.png)
+    ![screenshot](images/choose-sound.png)
 
-+ Затем вы должны увидеть, что ваш спрайт имеет выбранный вами звук.
++ После этого твой спрайт должен получить выбранный тобой звук.
     
-    ![Скриншот](images/sound-imported.png)
+    ![screenshot](images/sound-imported.png)
