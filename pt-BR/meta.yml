@@ -1,7 +1,7 @@
 ---
 title: Adicionando um som da biblioteca
 hero_image: images/banner.png
-description: Como adicionar um som ao seu sprite Scratch
+description: Como adicionar um som ao seu ator Scratch
 original_url:
 theme: protótipo cc
 duration: 1
@@ -12,4 +12,4 @@ interests:
 technologies: "coçar, arranhão"
 steps:
   - 
-    title: Adicione um som à sua sprite
+    title: Adicione um som ao seu ator
