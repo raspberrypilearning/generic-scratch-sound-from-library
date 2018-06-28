@@ -1,15 +1,15 @@
 ---
 title: লাইব্রেরি থেকে একটি শব্দ যোগ করা
-hero_image: ইমেজ / banner.png
-description: কিভাবে আপনার স্ক্র্যাচ স্প্রাইট একটি শব্দ যোগ করুন
+hero_image: images/banner.png
+description: আপনার স্ক্র্যাচ স্প্রাইটে কিভাবে একটি শব্দ যোগ করবেন
 original_url:
-theme: CC-প্রোটোটাইপ
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "আঁচড়ের দাগ"
+technologies: "scratch"
 steps:
   - 
-    title: আপনার স্প্রিটের একটি শব্দ যোগ করুন
+    title: আপনার স্প্রাইটে একটি শব্দ যোগ করুন
