@@ -1,4 +1,4 @@
-+ Selecione a sprite ao qual deseja adicionar o som.
++ Selecione o ator ao qual deseja adicionar o som.
     
     ![screenshot](images/sprite-select.png)
 
@@ -10,6 +10,6 @@
     
     ![screenshot](images/choose-sound.png)
 
-+ Você deve então ver que sua sprite possui o som escolhido.
++ Você deve então ver que seu ator possui o som escolhido.
     
     ![screenshot](images/sound-imported.png)
