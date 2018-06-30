@@ -3,13 +3,13 @@ title: Adicionando um som da biblioteca
 hero_image: images/banner.png
 description: Como adicionar um som ao seu ator Scratch
 original_url:
-theme: protótipo cc
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "coçar, arranhão"
+technologies: "scratch"
 steps:
   - 
     title: Adicione um som ao seu ator
