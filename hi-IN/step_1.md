@@ -6,7 +6,7 @@
     
     ![screenshot](images/import-sound.png)
 
-+ Sounds are organised by category, and you can click the **Play** button to hear a sound. Choose a suitable sound and click **OK**.
++ ध्वनियाँ श्रेणी में व्यवस्थित होती हैं, और आप ध्वनि सुनने के लिए **चलाए** बटन पर क्लिक कर सकते हैं। उचित ध्वनि चुनें और **ठीक** पर क्लिक करें।
     
     ![screenshot](images/choose-sound.png)
 
