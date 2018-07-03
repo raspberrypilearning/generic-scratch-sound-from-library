@@ -1,8 +1,8 @@
-+ Select the sprite you want to add the sound to.
++ उस स्प्राइट का चयन करें जिससे आप ध्वनि जोड़ना चाहते हैं।
     
     ![screenshot](images/sprite-select.png)
 
-+ Click the **Sounds** tab, and click **Choose sound from library**:
++ **ध्वनि** टैब पर क्लिक करें, और **लाइब्रेरी से ध्वनि चुने** पर क्लिक करें:
     
     ![screenshot](images/import-sound.png)
 
