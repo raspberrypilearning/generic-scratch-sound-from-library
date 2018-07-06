@@ -2,7 +2,7 @@
     
     ![截圖](images/sprite-select.png)
 
-+ 單擊 **聲音** 選項卡，然後單擊 **從庫**中選擇聲音：
++ 點選**聲音** tab, and click **從資料庫選擇聲音**:
     
     ![截圖](images/import-sound.png)
 
