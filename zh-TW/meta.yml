@@ -1,15 +1,15 @@
 ---
-title: 從庫中添加聲音
-hero_image: 圖片/ banner.png
+title: 從資料庫中添加聲音
+hero_image: images/banner.png
 description: 如何為您的Scratch精靈添加聲音
 original_url:
-theme: CC-原型
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "刮"
+technologies: "scratch"
 steps:
   - 
     title: 給你的精靈添加聲音
