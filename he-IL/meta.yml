@@ -1,9 +1,9 @@
 ---
 title: הוספת צליל מהספריה
-hero_image: תמונות / banner.png
-description: כיצד להוסיף צליל לשריטות שריטה
+hero_image: images/banner.png
+description: כיצד להוסיף צליל לדמויות סקרטץ'
 original_url:
-theme: אב טיפוס
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
