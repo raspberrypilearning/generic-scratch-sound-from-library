@@ -2,7 +2,7 @@
     
     ![截屏](images/sprite-select.png)
 
-+ 单击**声音**标签，然后单击 **从声音库中选取声音**图标:
++ 单击**声音**标签，然后单击 **从声音库中选取声音**:
     
     ![截屏](images/import-sound.png)
 
@@ -10,6 +10,6 @@
     
     ![截屏](images/choose-sound.png)
 
-+ 你应该看到你的角色已经有了你刚给它选的声音。
++ 你应该能看到你的角色已经有了你给他选择的声音。
     
     ![截屏](images/sound-imported.png)
