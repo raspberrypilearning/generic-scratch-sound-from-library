@@ -2,7 +2,7 @@
     
     ![скріншот](images/sprite-select.png)
 
-+ Клацніть вкладку **Звуки** та натисніть **Вибрати звук з бібліотеки**:
++ Клацніть вкладку **Sounds** та натисніть **Choose sound from library**:
     
     ![скріншот](images/import-sound.png)
 
