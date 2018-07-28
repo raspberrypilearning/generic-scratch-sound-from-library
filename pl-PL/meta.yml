@@ -1,15 +1,15 @@
 ---
 title: Dodawanie dźwięku z biblioteki
-hero_image: images / banner.png
-description: Jak dodać dźwięk do sprite'a Scratch
+hero_image: images/banner.png
+description: Jak dodać dźwięk do duszka w Scratchu
 original_url:
-theme: prototyp cc
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "zadraśnięcie"
+technologies: "scratch"
 steps:
   - 
     title: Dodaj dźwięk do swojego duszka
