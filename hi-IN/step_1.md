@@ -2,7 +2,7 @@
     
     ![स्क्रीनशॉट](images/sprite-select.png)
 
-+ **Sounds** टैब पर क्लिक करें, और **Choose sound from library** पर क्लिक करें:
++ **ध्वनि(Sounds)** टैब पर क्लिक करें, और **लाइब्रेरी से ध्वनि चुने(Choose sound from library)** पर क्लिक करें:
     
     ![स्क्रीनशॉट](images/import-sound.png)
 
