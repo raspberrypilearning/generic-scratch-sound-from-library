@@ -10,6 +10,6 @@
     
     ![screenshot](images/choose-sound.png)
 
-+ Zatim bi trebalo da vidiš da tvoj lik ima tvoj izabrani zvuk.
++ Trebalo bi da vidiš da tvoj lik ima zvuk koji si izabrao/izabrala.
     
     ![screenshot](images/sound-imported.png)
