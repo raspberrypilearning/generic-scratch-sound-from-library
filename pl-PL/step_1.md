@@ -10,6 +10,6 @@
     
     ![zrzut ekranu](images/choose-sound.png)
 
-+ Powinieneś wtedy zobaczyć, że twój duszek ma wybrany przez ciebie dźwięk.
++ Zauważysz wtedy, że twój duszek ma wybrany przez ciebie dźwięk.
     
     ![zrzut ekranu](images/sound-imported.png)
