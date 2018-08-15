@@ -2,7 +2,7 @@
     
     ![zrzut ekranu](images/sprite-select.png)
 
-+ Kliknij kartę **Dźwięki** a następnie **Wybierz dźwięk z biblioteki**:
++ Kliknij kartę **Dźwięki**, a następnie **Wybierz dźwięk z biblioteki**:
     
     ![zrzut ekranu](images/import-sound.png)
 
