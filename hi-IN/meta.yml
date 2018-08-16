@@ -1,6 +1,7 @@
-title: लाइब्रेरी से ध्वनि शामिल करना
+---
+title: लाइब्रेरी से ध्वनि जोड़ना
 hero_image: images/banner.png
-description: अपनी Scratch स्प्राइट में ध्वनि शामिल कैसे करें
+description: कैसे अपने स्क्रैच स्प्राइट में ध्वनि जोड़े
 original_url:
 theme: cc-prototype
 duration: 1
@@ -8,6 +9,6 @@ listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: “scratch"
+technologies: "scratch"
 steps:
-  - title: अपनी स्प्राइट में ध्वनि शामिल करें
+  - title: अपने स्प्राइट में ध्वनि जोड़े
