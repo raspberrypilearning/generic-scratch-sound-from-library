@@ -1,7 +1,7 @@
 ---
-title: إضافة صوت من المكتبة
+title: Dodawanie dźwięku z biblioteki
 hero_image: images/banner.png
-description: كيفية إضافة صوت إلى كائن في Scratch
+description: Jak dodać dźwięk do duszka w Scratchu
 original_url:
 theme: cc-prototype
 duration: 1
@@ -11,4 +11,4 @@ copyedit: true
 interests:
 technologies: "scratch"
 steps:
-  - title: إضافة صوت إلى الكائن
+  - title: Dodaj dźwięk do twojego duszka
