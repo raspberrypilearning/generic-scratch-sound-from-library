@@ -10,6 +10,6 @@
     
     ![skærmbillede](images/choose-sound.png)
 
-+ Du skal så se, at din sprite har din valgte lyd.
++ Du kan se hvilke lyd, der er valgt til din sprite.
     
     ![skærmbillede](images/sound-imported.png)
