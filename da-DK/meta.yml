@@ -1,6 +1,6 @@
 ---
 title: Tilføjelse af en lyd fra biblioteket
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Sådan tilføjes en lyd til din Scratch-sprite
 original_url:
 theme: cc-prototype
@@ -9,7 +9,7 @@ listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "kradse"
+technologies: "scratch"
 steps:
   - 
     title: Tilføj en lyd til din sprite
