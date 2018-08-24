@@ -1,4 +1,4 @@
-+ Sesi eklemek kuklayı seçin.
++ Ses eklemek istediğiniz kuklayı seçin.
     
     ![ekran görüntüsü](images/sprite-select.png)
 
@@ -6,7 +6,7 @@
     
     ![ekran görüntüsü](images/import-sound.png)
 
-+ Sesler kategoriye göre düzenlenir ve bir ses duymak için **Oynat** düğmesine tıklayabilirsiniz. Uygun bir ses seçin ve **Tamam**'a tıklayın.
++ Sesler kategoriye göre düzenlenir ve seslerden bir tanesini dinlemek için **Oynat** düğmesine tıklayabilirsiniz. Uygun bir ses seçin ve **Tamam**'a tıklayın.
     
     ![ekran görüntüsü](images/choose-sound.png)
 
