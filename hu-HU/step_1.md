@@ -1,15 +1,15 @@
-+ Válassza ki a hangot, amelyhez hozzá kívánja adni a hangot.
++ Válaszd ki a szereplőt, amelyhez hozzá szeretnéd adni a hangot.
     
-    ![screenshot](images/sprite-select.png)
+    ![képernyőkép](images/sprite-select.png)
 
-+ Kattintson a **Hangok** lapra, majd kattintson a **Válassza ki a hangot a könyvtárból**:
++ Kattints a **Hangok** lapra, majd kattints a **Hang kiválasztása a könyvtárból** ikonra:
     
-    ![screenshot](images/import-sound.png)
+    ![képernyőkép](images/import-sound.png)
 
-+ A hangok kategóriák szerint vannak rendezve, és a **Play** gomb megnyomásával hangot hallhatunk. Válasszon megfelelő hangot, és kattintson a **OK gombra**.
++ A hangok kategóriák szerint vannak rendezve, és a **Lejátszás** gomb megnyomásával meghallgathatod őket. Válassz egy megfelelő hangot, majd kattints az **OK** gombra.
     
-    ![screenshot](images/choose-sound.png)
+    ![képernyőkép](images/choose-sound.png)
 
-+ Ezután meg kell látnod, hogy a sprite-nek van választott hangja.
++ Ezután láthatod, hogy a szereplőhöz hozzákerült a kiválasztott hang.
     
-    ![screenshot](images/sound-imported.png)
+    ![képernyőkép](images/sound-imported.png)
