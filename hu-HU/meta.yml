@@ -1,15 +1,15 @@
 ---
 title: Hang hozzáadása a könyvtárból
-hero_image: images / banner.png
-description: Hogyan adhat hozzá hangot a Scratch sprite-hez?
+hero_image: images/banner.png
+description: Hogyan adhatsz hozzá hangot a Scratch szereplődhöz
 original_url:
-theme: cc-prototípus
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "karcolás"
+technologies: "scratch"
 steps:
   - 
-    title: Hang hozzáadása a sprite-hez
+    title: Adj hozzá hangot a szereplődhöz
