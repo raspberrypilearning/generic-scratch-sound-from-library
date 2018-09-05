@@ -10,6 +10,6 @@
     
     ![kuvakaappaus](images/choose-sound.png)
 
-+ Sinun pitäisi sitten nähdä, että spriteellesi on valittu ääni.
++ Sinun pitäisi sitten nähdä, että hahmollesi on valittu ääni.
     
     ![kuvakaappaus](images/sound-imported.png)
