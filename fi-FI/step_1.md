@@ -1,4 +1,4 @@
-+ Valitse sprite, johon haluat lisätä äänen.
++ Valitse hahmo, johon haluat lisätä äänen.
     
     ![kuvakaappaus](images/sprite-select.png)
 
