@@ -1,15 +1,15 @@
-+ Selecione o sprite ao qual deseja adicionar o som.
++ Selecione o actor ao qual deseja adicionar o som.
     
-    ![captura de tela](images/sprite-select.png)
+    ![captura de ecrã](images/sprite-select.png)
 
-+ Clique na guia **Sons** e clique em **Escolha o som da biblioteca**:
++ Clique no separador **Sons** e clique em **Escolha o som da livraria**:
     
-    ![captura de tela](images/import-sound.png)
+    ![captura de ecrã](images/import-sound.png)
 
-+ Os sons são organizados por categoria e você pode clicar no botão **Play** para ouvir um som. Escolha um som adequado e clique em **OK**.
++ Os sons estão organizados por categoria e podes clicar no botão **tocar** para ouvir um som. Escolhe um som adequado e clica em **OK**.
     
-    ![captura de tela](images/choose-sound.png)
+    ![captura de ecrã](images/choose-sound.png)
 
-+ Você deve então ver que seu sprite possui o seu som escolhido.
++ Nessa altura deves ver que o teu actor tem o som que escolheste.
     
-    ![captura de tela](images/sound-imported.png)
+    ![captura de ecrã](images/sound-imported.png)
