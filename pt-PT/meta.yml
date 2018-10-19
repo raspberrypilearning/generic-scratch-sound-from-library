@@ -1,7 +1,7 @@
 ---
-title: Adicionando um som da biblioteca
-hero_image: images / banner.png
-description: Como adicionar um som ao seu sprite Scratch
+title: Adicionar um som da livraria
+hero_image: imagens / banner.png
+description: Como adicionar um som ao teu actor do Scratch
 original_url:
 theme: protótipo cc
 duration: 1
@@ -9,7 +9,7 @@ listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "coçar, arranhão"
+technologies: "scratch"
 steps:
   - 
-    title: Adicione um som ao seu sprite
+    title: Adiciona um som ao teu actor
