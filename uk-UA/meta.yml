@@ -1,7 +1,7 @@
 ---
 title: Додавання звуку з бібліотеки
-hero_image: images / banner.png
-description: Як додати звук до вашого Scratch sprite
+hero_image: images/banner.png
+description: Як додати звук до вашого спрайту у Скретч
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Додайте звук у свій спрайт
+    title: Додайте звук до свого спрайту
